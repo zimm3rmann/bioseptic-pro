@@ -1,9 +1,10 @@
 ---
 banner:
-  title: Bio-<br>SepticPro
+  title: BIO-SEPTIC PRO<br>The Revolutionary Septic Tank Maintenance System
 about:
   enable: true
-  content: "We estimate 65% of our listeners and viewers are using septic systems
+  content: "Bio-SepticPro, The Revolutionary Septic Tank Maintenance System Endorsed by Alex Jones.
+    We estimate 65% of our listeners and viewers are using septic systems
     that can result in thousands of dollars in repairs and equipment replacement if
     they are not properly maintained. \n\nMost septic tank competitor products uses
     enzymes which last about a month. \n\nBio-Septic pro uses a natural, live micro
@@ -112,29 +113,3 @@ testimonial:
       <strong>quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
       consequat.</strong> Duis aute irure dolor in reprehenderit in voluptate velit
       esse cillum dolore eu fugiat nulla pariatur.
-clients_logo_slider:
-  enable: true
-  item:
-  - logo: images/clients-logo/client-logo-1.png
-    URL: http://examplesite.com
-  - logo: images/clients-logo/client-logo-2.png
-    URL: "#"
-  - logo: images/clients-logo/client-logo-3.png
-    URL: http://examplesite.com
-  - logo: images/clients-logo/client-logo-4.png
-    URL: "#"
-  - logo: images/clients-logo/client-logo-5.png
-    URL: http://examplesite.com
-  - logo: images/clients-logo/client-logo-1.png
-    URL: "#"
-  - logo: images/clients-logo/client-logo-2.png
-    URL: http://examplesite.com
-  - logo: images/clients-logo/client-logo-3.png
-    URL: "#"
-  - logo: images/clients-logo/client-logo-4.png
-    URL: http://examplesite.com
-  - logo: images/clients-logo/client-logo-5.png
-    URL: "#"
-blog:
-  enable: false
-  title: Blogs
